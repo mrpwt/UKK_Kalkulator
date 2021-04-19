@@ -1,0 +1,16 @@
+E:\KK3\Kalkulator_Rafif\Kalkulator_Rafif\bin\Debug\Kalkulator_Rafif.exe
+E:\KK3\Kalkulator_Rafif\Kalkulator_Rafif\bin\Debug\Kalkulator_Rafif.pdb
+E:\KK3\Kalkulator_Rafif\Kalkulator_Rafif\obj\x86\Debug\Kalkulator_Rafif.Form1.resources
+E:\KK3\Kalkulator_Rafif\Kalkulator_Rafif\obj\x86\Debug\Kalkulator_Rafif.Properties.Resources.resources
+E:\KK3\Kalkulator_Rafif\Kalkulator_Rafif\obj\x86\Debug\Kalkulator_Rafif.csproj.GenerateResource.Cache
+E:\KK3\Kalkulator_Rafif\Kalkulator_Rafif\obj\x86\Debug\Kalkulator_Rafif.exe
+E:\KK3\Kalkulator_Rafif\Kalkulator_Rafif\obj\x86\Debug\Kalkulator_Rafif.pdb
+E:\KK3\Kalkulator_Rafif\Kalkulator_Rafif\obj\x86\Debug\Kalkulator_Rafif.csprojResolveAssemblyReference.cache
+E:\Kelas XI RPL\KK3\Kalkulator_Rafif\Kalkulator_Rafif\obj\x86\Debug\Kalkulator_Rafif.exe
+E:\Kelas XI RPL\KK3\Kalkulator_Rafif\Kalkulator_Rafif\obj\x86\Debug\Kalkulator_Rafif.pdb
+E:\Kelas XI RPL\KK3\Kalkulator_Rafif\Kalkulator_Rafif\bin\Debug\Kalkulator_Rafif.exe
+E:\Kelas XI RPL\KK3\Kalkulator_Rafif\Kalkulator_Rafif\bin\Debug\Kalkulator_Rafif.pdb
+E:\Kelas XI RPL\KK3\Kalkulator_Rafif\Kalkulator_Rafif\obj\x86\Debug\Kalkulator_Rafif.csprojResolveAssemblyReference.cache
+E:\Kelas XI RPL\KK3\Kalkulator_Rafif\Kalkulator_Rafif\obj\x86\Debug\Kalkulator_Rafif.Form1.resources
+E:\Kelas XI RPL\KK3\Kalkulator_Rafif\Kalkulator_Rafif\obj\x86\Debug\Kalkulator_Rafif.Properties.Resources.resources
+E:\Kelas XI RPL\KK3\Kalkulator_Rafif\Kalkulator_Rafif\obj\x86\Debug\Kalkulator_Rafif.csproj.GenerateResource.Cache
